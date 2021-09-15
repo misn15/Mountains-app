@@ -18,7 +18,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h3>Found: {this.state.prices.length} prices</h3>
+        <h3>Found this: {this.state.prices.length} prices</h3>
         <Winter onSearchSubmit={this.onSearchSubmit} />
       </div>
     );
