@@ -1,0 +1,32 @@
+.mt {
+  background-image: url("../pictures/IMG_2462.JPG");
+  position: fixed;
+  background-position: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+.quote {
+  text-align: center;
+  margin-top: 12vh;
+  font-size: 20pt;
+  font-family: "Gill Sans";
+  font-style: italic;
+  color: black;
+  -webkit-text-stroke-width: 1px;
+}
+
+.bt {
+}
+
+.container {
+  position: relative;
+  margin-top: 15%;
+}
+
+.divider {
+  width: 25px;
+}
